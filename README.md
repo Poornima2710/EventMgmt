@@ -1,3 +1,10 @@
+EVENT MANAGEMENT SYSTEM - "Project EVENTRA".  Software used: Python and MySQL
+
+BRIEF
+Now a days events have become an important part of our lives, from small birthday parties to large corporate meetings. Therefore, there comes a need for managing events efficiently and smoothly. So, developers use DBMS and programming languages like Python to create software that can handle event details, participants, schedules, and resources. The Event Management System helps in organizing events in a systematic way from one place. To begin with the introduction of my project, this is a small project (a software) developed by me to manage events efficiently, and the name of my event management system is EVENTRA.
+
+The Event Management System project successfully demonstrates the practical application of Python and MySQL in solving real-life management problems. It helps in organizing and maintaining event details, participant records, and attendance efficiently through automation. The project enhanced my understanding of database connectivity, file handling, and modular programming in Python. It also improved my logical thinking, debugging, and problem-solving skills. Overall, the project gave me hands-on experience in developing a complete software solution and highlighted the importance of using technology to simplify daily tasks and ensure accuracy in record management.
+
 INSTALLATION PROCEDURE
 Pre-Requisites:
 1. You have to have the following software’s for the successful running of this software; which are:
